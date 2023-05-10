@@ -1,7 +1,7 @@
 #!/bin/sh
 
 nitriding \
-  -fqdn "star-randsrv.bsg.brave.com" \
+  -fqdn "star-randsrv.bsg.bravesoftware.com" \
   -appurl "https://github.com/brave/star-randsrv" \
   -appwebsrv "http://127.0.0.1:8080" \
   -prometheus-port 9090 \
